@@ -1,0 +1,2 @@
+# 43111121---Surya-Elancheralathan-Student-Performance-Analysis-Dashboard-Project-PRIDE-Assignment-
+The Student Performance Analysis Dashboard is a comprehensive business intelligence tool designed for school administrators and educators. Its primary goal is to transition from simple grade-tracking by integrating academic results with behavioral data (attendance), the dashboard provides a 360-degree view of the learning environment.
